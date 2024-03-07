@@ -34,7 +34,7 @@ Integration Tests -
 
     I planned to do 2 basic integration tests, for checking the happy path
     and error path Product detain Flows, but it's probably going to delay my assignment.
-
+    
     ComposeUiTest can be used to achieve that.
-
+    
     Happy to talk about it later.
