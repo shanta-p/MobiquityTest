@@ -1,4 +1,4 @@
-# MobiquityTest
+# Mobiquity Test
 Take home task for Mobiquity
 
 
